@@ -1,0 +1,18 @@
+body {
+  margin: 0 auto;
+  background-color: #eaeaea;
+}
+
+h1 {
+  color: #123456;
+  padding: 1em;
+  text-align: center;
+}
+
+.sondage {
+    text-align: center;
+}
+
+.sondage-button:not(:last-child) {
+    margin-right: 0.8em;
+}
